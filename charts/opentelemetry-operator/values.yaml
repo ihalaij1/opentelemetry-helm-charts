@@ -15,8 +15,8 @@ imagePullSecrets: []
 ##
 manager:
   image:
-    repository: ghcr.io/open-telemetry/opentelemetry-operator/opentelemetry-operator
-    tag: v0.66.0
+    repository: ghcr.io/ihalaij1/opentelemetry-operator/opentelemetry-operator
+    tag: v0.66.1
   collectorImage:
     repository: otel/opentelemetry-collector-contrib
     tag: 0.66.0
